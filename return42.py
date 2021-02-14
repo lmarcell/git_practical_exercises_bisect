@@ -2,7 +2,9 @@
 
 import sys
 
+RET_VAL = 43
+
 #some changes added to the script
 #some comments added
 
-sys.exit(42)
+sys.exit(RET_VAL)
